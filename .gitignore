@@ -1,0 +1,26 @@
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+leapfrog
+accuracy
+
+output/
+results/
+data/
+datasets/
+*.zip
+*.eps
+*.log
+
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+# Generated solver output can be very large.
+phi*.m
+Oene*.m
+remarks.m
