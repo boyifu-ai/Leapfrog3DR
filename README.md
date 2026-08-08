@@ -1,12 +1,12 @@
-# Leapfrog3DR
-
 This is the official code repository for **On the numerical approximation of a phase-field volume reconstruction model: Linear and energy-stable leap-frog finite difference scheme**. Published in Communications in Nonlinear Science and Numerical Simulation (CNSNS) 2025.
 
-<p align="center">
-  <a href="https://doi.org/10.1016/j.cnsns.2025.109104"><strong>📜 Paper</strong></a>
-</p>
+# On the numerical approximation of a phase-field volume reconstruction model: Linear and energy-stable leap-frog finite difference scheme
 
-> B. Fu, D. Cai, X. Kong, R. Gao, and J. Yang, "On the numerical approximation of a phase-field volume reconstruction model: Linear and energy-stable leap-frog finite difference scheme," Communications in Nonlinear Science and Numerical Simulation, vol. 151, Article 109104, 2025.
+[![Paper](https://img.shields.io/badge/Paper-CNSNS%202025-blue)](https://doi.org/10.1016/j.cnsns.2025.109104)
+
+**Boyi Fu, Dongting Cai, Xiangjie Kong, Renjun Gao, Junxiang Yang**
+
+> B. Fu, D. Cai, X. Kong, R. Gao, and J. Yang. On the numerical approximation of a phase-field volume reconstruction model: Linear and energy-stable leap-frog finite difference scheme. Communications in Nonlinear Science and Numerical Simulation, vol. 151, Article 109104, 2025.
 
 <p align="center">
   <img src="assets/Buddhatogether.gif" width="380" alt="Buddha point cloud and reconstructed volume">
