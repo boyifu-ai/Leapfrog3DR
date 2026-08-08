@@ -1,6 +1,6 @@
 <div align="center">
 
-# On the numerical approximation of a phase-field volume reconstruction model: Linear and energy-stable leap-frog finite difference scheme
+## On the numerical approximation of a phase-field volume reconstruction model: Linear and energy-stable leap-frog finite difference scheme
 
 [![Paper](https://img.shields.io/badge/Paper-CNSNS%202025%20Accepted-blue)](https://doi.org/10.1016/j.cnsns.2025.109104)
 
