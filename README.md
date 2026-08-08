@@ -21,7 +21,7 @@ This repository contains the finite-difference implementation and minimal inspec
 
 For additional data, please contact: boyifu101@gmail.com.
 
-## What Is Included
+### What Is Included
 
 - C implementation of the linear energy-stable Leap-frog finite-difference solver.
 - C utility for L2 accuracy calculations from generated `phi*.m` outputs.
@@ -31,7 +31,7 @@ For additional data, please contact: boyifu101@gmail.com.
 
 Large point-cloud datasets and generated `phi*.m` result files are not included.
 
-## Build
+### Build
 
 With GCC or MinGW:
 
@@ -42,7 +42,7 @@ gcc -O2 -std=gnu99 -Wall -Wextra src/accuracy.c -lm -o accuracy
 
 The code is written for C99-compatible compilers. `gnu99` is used in the Makefile because older MinGW versions handle it more consistently.
 
-## Run The Solver
+### Run The Solver
 
 The solver needs two text inputs:
 
@@ -73,7 +73,7 @@ The default grid size is `128 x 128 x 128`. You can override it at compile time:
 gcc -O2 -std=gnu99 -Wall -Wextra -Dgnx=64 -Dgny=64 -Dgnz=64 src/leapfrog.c -lm -o leapfrog
 ```
 
-## Prepare Point-Cloud Data
+### Prepare Point-Cloud Data
 
 Convert plain text point-cloud samples to solver-ready files:
 
@@ -88,7 +88,7 @@ examples/teapot/nt_points.m
 examples/teapot/fun_data.m
 ```
 
-## Inspect Results
+### Inspect Results
 
 Render a reconstructed volume in MATLAB:
 
@@ -102,7 +102,7 @@ Render input point-cloud samples:
 render_pointcloud('examples/teapot/fun_data.m', 27, 2.7, [-122 45])
 ```
 
-## Repository Structure
+### Repository Structure
 
 ```text
 src/              C solver and accuracy utility
@@ -112,7 +112,7 @@ assets/           README GIF assets
 docs/             implementation notes
 ```
 
-## Citation
+### Citation
 
 If you use this code, please cite the associated paper.
 
@@ -130,7 +130,7 @@ BibTeX:
 }
 ```
 
-## Notes
+### Notes
 
 See `docs/IMPLEMENTATION_NOTES.md` for what was changed from the original working directory and what still needs manual paper-level verification before final publication.
 
