@@ -10,12 +10,12 @@
 
 ---
 
-> B. Fu, D. Cai, X. Kong, R. Gao, and J. Yang. On the numerical approximation of a phase-field volume reconstruction model: Linear and energy-stable leap-frog finite difference scheme. Communications in Nonlinear Science and Numerical Simulation, vol. 151, Article 109104, 2025.
-
 <p align="center">
   <img src="assets/Buddhatogether.gif" width="380" alt="Buddha point cloud and reconstructed volume">
   <img src="assets/owltogether.gif" width="480" alt="Owl point cloud and reconstructed volume">
 </p>
+
+> B. Fu, D. Cai, X. Kong, R. Gao, and J. Yang. On the numerical approximation of a phase-field volume reconstruction model: Linear and energy-stable leap-frog finite difference scheme. Communications in Nonlinear Science and Numerical Simulation, vol. 151, Article 109104, 2025.
 
 This repository contains the finite-difference implementation and minimal inspection utilities for the phase-field volume reconstruction model studied in the paper.
 
