@@ -6,7 +6,7 @@
 
 **Boyi Fu, Dongting Cai, Xiangjie Kong, Renjun Gao, Junxiang Yang**
 
-Affiliation: Macau University of Science and Technology
+**Affiliation: Macau University of Science and Technology**
 
 </div>
 
