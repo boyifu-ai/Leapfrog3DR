@@ -1,6 +1,6 @@
 # Simulation Parameter Notes
 
-The original working directory recorded these representative computational regions and grid sizes. Treat this as historical metadata; keep final values synchronized with the paper before publishing.
+Here recorded these representative computational regions and grid sizes. Treat this as metadata.
 
 | Object | x-domain | y-domain | z-domain | Grid |
 | --- | --- | --- | --- | --- |
