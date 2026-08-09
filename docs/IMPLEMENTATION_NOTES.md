@@ -1,4 +1,4 @@
-S## Alignment With The Paper
+## Alignment With The Paper
 
 The official article preview describes the method as:
 
